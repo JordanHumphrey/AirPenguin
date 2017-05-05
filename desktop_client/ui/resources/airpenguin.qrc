@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QTDark.css</file>
+        <file>Audiowide-Regular.ttf</file>
+        <file>load_black.svg</file>
+        <file>load_gray.svg</file>
+        <file>playbuttonLight.png</file>
+        <file>pausebuttonLight.png</file>
+        <file>stopbuttonLight.png</file>
+        <file>mutebuttonOffLight.png</file>
+        <file>mutebuttonOnLight.png</file>
+        <file>load_white.svg</file>
+        <file>load_white.png</file>
+        <file>load_black.png</file>
+        <file>penguinDark.gif</file>
+        <file>penguinLight.gif</file>
+        <file>raspberryPiLight.png</file>
+        <file>raspberryPiDark.png</file>
+        <file>aboutDark.png</file>
+        <file>aboutLight.png</file>
+        <file>playLocalDark.png</file>
+        <file>playLocalLight.png</file>
+        <file>Pengif2008.svg</file>
+        <file>PengTray.png</file>
+        <file>PengiconWhite.png</file>
+        <file>fsbuttonLight.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>Audiowide-Regular.ttf</file>
+    </qresource>
+</RCC>

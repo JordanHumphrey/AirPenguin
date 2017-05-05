@@ -1,0 +1,28 @@
+Sprint 1: Use cases identified(socket), rough UI design completed + UML
+Sprint 2: Encryption skeleton created, Further UI dev
+Sprint 3: Encryption
+Sprint 4: Connecting UI with Backend
+Sprint 5: Casting!
+
+Powerpoint presentation for this:
+includes 
+tutorials maybe a video
+show UMLs then 
+
+1) what are project is about
+2) Initial plan, then changed to what?
+3) development process
+//Original QMediaPlayer to libVLC
+    1] codec support not good in qmediaplayer
+    2] performance reasons (IO problems, memory)
+    3] VLC clean clear concise
+//QT
+    cross platfrom
+    c++ best framework
+    add features to c++ with signals and slots
+    maintainability, support communitiy
+ why?
+        Chromecast at home and buggy
+        Emile wanted to improve it. 
+Logo
+    I drew the logo and talk about it
